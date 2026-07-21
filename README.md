@@ -24,7 +24,7 @@
 ## 💻 Tools and Technologies
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/a5bfd510a6b2631616d856e2f7fa8dd78e1b1a8be9a14d67add1095bdc57976e/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d6469616e6661757a693136267468656d653d746f6b796f2d6e69676874" />
+  <img src="https://camo.githubusercontent.com" />
 </p>
 
 ![](https://tech-stack-generator.vercel.app/github-icon.svg)
