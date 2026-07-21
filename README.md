@@ -24,7 +24,7 @@
 ## 💻 Tools and Technologies
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com" />
+  <img src="[https://camo.githubusercontent.com](https://github.com/dianfauzi16#-tools-and-technologies)" />
 </p>
 
 ![](https://tech-stack-generator.vercel.app/github-icon.svg)
