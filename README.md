@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00BFFF&center=true&vCenter=true&width=600&lines=Web+Developer;AI+Enthusiast;Next.js+Lover;Always+Learning+New+Things" />
 </p>
-<h1 align="center">Hi 👋, I'm M Dian Fauzi</h1>
-<h3 align="center">Informatics Student | Web Developer | AI Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Muhammad Hanif Hawari</h1>
+<h3 align="center">Frontend Web Developer | Typescript,React,Next.js | Informatics Student</h3>
 
 ---
 
@@ -93,26 +93,26 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dianfauzi16&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HanifHawari&theme=tokyo-night" />
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/dianfauzi16"/>
+  <img src="https://ghchart.rshah.org/HanifHawari"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dianfauzi16&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HanifHawari&theme=tokyonight"/>
 </p>  
 
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/m-dian-fauzi-7bb8332ab
-- 🌐 Portfolio: https://portfolio-dian-fauzi.vercel.app/
-- 📧 Email: dianf7673@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/muhammad-hanif-hawari
+- 🌐 Portfolio: https://portfoliohanief.web.id
+- 📧 Email: muhanwar.ipuh@gmail.com
 
 ---
 
 <p align="center">
-  ⭐ From <b>M Dian Fauzi</b> | Building the future with code 🚀
+  ⭐ From <b>Muhammad Hanif Hawari</b> | Building the future with code 🚀
 </p>
