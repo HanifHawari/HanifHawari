@@ -1,80 +1,66 @@
-<h1 align="center">Hi 👋, I'm HANIEF</h1>
-<h3 align="center">Senior Web Programmer from Indonesia 🇮🇩</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;Backend+Developer;Web+Designer;Always+Learning+New+Things&center=true&width=500&height=45">
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Hanif+%F0%9F%91%8B;Informatics+Student;Frontend+Developer;Web+Enthusiast;Welcome+to+my+profile!)](https://git.io/typing-svg)
+
+</div>
+
+# Hi 👋, I'm Muhammad Hanif Hawari
+
+### Informatics Student | Frontend Developer | Web Enthusiast
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **Web Development Projects**
-- 🌱 Learning **JavaScript, React, Node.js**
-- 💻 Focus on **Modern UI/UX Website**
-- ⚡ Fun fact: *I love coding at night 🌙*
+- 🎓 Informatics Student at Universitas Amikom Yogyakarta
+- 💻 Frontend Developer, fokus di web modern dan UI/UX yang rapi
+- 🌐 Lagi bangun portfolio pribadi di [portfoliohanief.web.id](https://portfoliohanief.web.id)
+- 🧠 Suka eksplorasi teknologi baru, dari 3D web sampai AI-powered apps
+- 📚 Sedang mendalami machine learning dan data science
+- ⚡ Fun fact: senang ngoprek animasi dan interaksi di web
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://instagram.com/haniefhawari_" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
-</a>
-
-<a href="https://github.com/USERNAME" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
-
-<a href="https://discord.gg/YOURDC" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=discord" height="40" />
-</a>
-</p>
-
----
-
-## 💻 Tech Stack
+## 💻 Tools and Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,figma,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,php,mysql,threejs,git,vscode,figma" />
 </p>
+
+![](https://tech-stack-generator.vercel.app/github-icon.svg)
+![](https://tech-stack-generator.vercel.app/js-icon.svg)
+![](https://tech-stack-generator.vercel.app/ts-icon.svg)
+![](https://tech-stack-generator.vercel.app/react-icon.svg)
+![](https://tech-stack-generator.vercel.app/tailwind-icon.svg)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GANTI_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/GANTI_USERNAME" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GANTI_USERNAME&theme=tokyonight" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 📫 Connect With Me
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=false"/>
-</p>
-
----
-
-## 🏆 Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
+- 💼 LinkedIn: [GANTI_LINK_LINKEDIN](https://linkedin.com/in/GANTI_LINK_LINKEDIN)
+- 🌐 Portfolio: [portfoliohanief.web.id](https://portfoliohanief.web.id)
+- 📧 Email: GANTI_EMAIL@example.com
 
 ---
 
-## 🎵 Spotify Playing
+<div align="center">
 
-<p align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOURSPOTIFY&cover_image=true&theme=default"/>
-</p>
+⭐ From **Muhammad Hanif Hawari** | Building the future with code 🚀
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"/>
-</p>
+</div>
