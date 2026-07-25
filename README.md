@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00BFFF&center=true&vCenter=true&width=600&lines=Web+Developer;AI+Enthusiast;Next.js+Lover;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00BFFF&center=true&vCenter=true&width=600&lines=Web+Developer;Typescript;Next.js+Lover;Always+Learning+New+Things" />
 </p>
 <h1 align="center">Hi 👋, I'm Muhammad Hanif Hawari</h1>
 <h3 align="center">Frontend Web Developer | Typescript,React,Next.js | Informatics Student</h3>
@@ -7,11 +7,11 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Informatics Student
-- 💻 Passionate about Web Development
-- 🤖 Exploring Artificial Intelligence
-- 🌱 Currently learning: Machine Learning & Backend Development
-- ⚡ Fun fact: I love building modern web apps
+- 🎓 Informatics Student 
+- 💻 Frontend Developer
+- 🎨 Focused on clean UI/UX and performant, responsive interfaces
+- 🚀 Currently exploring Three.js for 3D web experiences
+- 🌱 Machine Learning & Backend Development
 
 ---
 
@@ -40,16 +40,16 @@
       <br>Python
     </td>
         <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
+        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65"/>
+      <br>Webpack
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
       <br>MySQL
     </td>
      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="65" height="65" alt="Prettier" />
-      <br>Prettier
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+      <br>Docker
     </td>
   </tr>
   <tr>
@@ -107,12 +107,12 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/muhammad-hanif-hawari
+- 💼 LinkedIn: https://linkedin.com/in/bangnepsz
 - 🌐 Portfolio: https://portfoliohanief.web.id
 - 📧 Email: muhanwar.ipuh@gmail.com
 
 ---
 
 <p align="center">
-  ⭐ From <b>Muhammad Hanif Hawari</b> | Building the future with code 🚀
+  ⭐ From <b>Muhammad Hanif Hawari</b> | Building the future with code
 </p>
