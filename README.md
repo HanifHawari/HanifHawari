@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 - 🎓 Informatics Student
 - 💻 Passionate about Web Development
 - 🤖 Exploring Artificial Intelligence
