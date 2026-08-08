@@ -1,36 +1,41 @@
-name: Generate Snake
+name: Generate Snake Animation
 
 on:
-  # Dijalankan setiap 12 jam sekali
+  # Dijalankan otomatis setiap 24 jam sekali
   schedule:
-    - cron: "0 */12 * * *" 
+    - cron: "0 0 * * *" 
   
-  # Memungkinkan workflow ini dijalankan secara manual dari tab Actions
+  # Memungkinkan Anda menjalankan workflow ini secara manual dari tab Actions
   workflow_dispatch:
   
-  # Dijalankan setiap kali ada push ke branch master/main
+  # Dijalankan setiap kali ada push di branch main/master
   push:
     branches:
-    - master
     - main
+    - master
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # Mengambil kode snake dari repo Platane/snk
-      - uses: Platane/snk@v3
-        id: snake-gif
+      - uses: actions/checkout@v3
+      
+      - name: Generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
         with:
-          # Membaca username GitHub secara otomatis
-          github_user_name: ${{ github.repository_owner }}
+          # username GitHub Anda
+          github_user_name: HanifHawari
+          
+          # output file yang akan di-generate
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      # Push file SVG yang dihasilkan ke branch bernama "output"
-      - name: Push to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v3
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      # Melakukan push hasil generate SVG (ularnya) ke branch `output`
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
