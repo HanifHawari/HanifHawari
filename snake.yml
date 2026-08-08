@@ -1,0 +1,38 @@
+name: Generate Snake
+
+on:
+  # Dijalankan setiap 12 jam sekali
+  schedule:
+    - cron: "0 */12 * * *" 
+  
+  # Memungkinkan workflow ini dijalankan secara manual dari tab Actions
+  workflow_dispatch:
+  
+  # Dijalankan setiap kali ada push ke branch master/main
+  push:
+    branches:
+    - master
+    - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Mengambil kode snake dari repo Platane/snk
+      - uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          # Membaca username GitHub secara otomatis
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      # Push file SVG yang dihasilkan ke branch bernama "output"
+      - name: Push to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
