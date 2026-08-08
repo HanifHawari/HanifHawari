@@ -112,10 +112,6 @@
 </picture>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/HanifHawari"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HanifHawari&theme=tokyonight"/>
 </p>  
 
