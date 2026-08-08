@@ -49,16 +49,16 @@
       <br>Python
     </td>
         <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height= "65" />
+      <br>Docker
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
       <br>MySQL
     </td>
      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="65" height="65" alt="Prettier" />
-      <br>Prettier
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65"  height= "65" />
+      <br>Java
     </td>
   </tr>
   <tr>
