@@ -113,7 +113,7 @@
 
 ## 📫 Connect With Me
 - 💼 LinkedIn: https://linkedin.com/in/bangnepsz
-- 🌐 Portfolio: https://www.portfoliohanief.web.id
+- 🌐 Portfolio: www.portfoliohanief.web.id
 - 📧 Email: muhanwar.ipuh@gmail.com
 
 ---
