@@ -125,5 +125,5 @@
 ---
 
 <p align="center">
-  ⭐ From <b>Muhammad Hanif Hawari</b> | Building the future with code 🚀
+  From <b>Muhammad Hanif Hawari</b> | Building the future with code 
 </p>
